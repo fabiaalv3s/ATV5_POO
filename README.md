@@ -23,6 +23,7 @@ cd client, npm add
 ```
 
 - Execute a aplicação pelo comando:
+
 -> Na pasta server
 ```
 npm run dev
