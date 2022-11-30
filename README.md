@@ -11,7 +11,7 @@ enunciado
   
 - Faça o clone do repositório:
 ```
--> git clone https://github.com/fabiaalv3s/ATV5_POO.git
+git clone https://github.com/fabiaalv3s/ATV5_POO.git
 ```
 
 - Instale as dependências do projeto:
@@ -28,7 +28,7 @@ cd client, npm add
 ```
 npm run dev
 ```
--> na pasta client
+-> Na pasta client
 ```
 npm start
 ```
